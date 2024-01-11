@@ -1,4 +1,4 @@
-# <p align="center"> Hello, I'm Velizar and my hobbies include coding  </p>
+# <p align="center"> Hello, I'm Velizar and my passions include coding  </p>
 
 ## <p align="center"> I love reading and learning in general. Graphic design is something i enjoy doing ever since i was very little. In my free time i journal and exercise. C++ was the first programming language i learned, but nowadays I enjoy writing code in *C#*. Send me a message if you want to see the projects i've been working on. </p>
 
